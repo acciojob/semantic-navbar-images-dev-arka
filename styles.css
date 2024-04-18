@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.image > li{
+	
+	padding : 10px;
+	list-style-type: none;
+}
